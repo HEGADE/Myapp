@@ -1,6 +1,5 @@
-```
 # lapshare For sharing Files Form mobile to Laptop
-```
+
 
 For sharing files you need to connect your laptop with 
 Your mobile hotspot .
