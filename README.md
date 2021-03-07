@@ -16,13 +16,20 @@ For sharing files you need to connect your laptop with Your mobile hotspot .
 | secured                       |
 | Totally Free                   |
 
-
 ## Demo
 <center>
 <p align="center">
 
-   <img src="https://github.com/HEGADE/assets/blob/main/Lapshare.jpg"  custom image  alt="lapshareDemo" height=500 weight=500/>
+   <img src="https://github.com/HEGADE/assets/blob/main/Lapshare.jpg"  custom image  alt="lapshareDemo" height=300 width=650/>
  
 </p>
 </center>
 
+## Usage
+```
+Using lapshare as simple as using other softwares,just you need to install the lapshare on
+your's windows machine,then you are good to go.
+```
+## limitations
+
+* Currently not supporting linux and Mac os
