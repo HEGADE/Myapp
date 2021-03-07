@@ -16,7 +16,7 @@ For sharing files you need to connect your laptop with Your mobile hotspot .
 | secured                       |
 | Totally Free                   |
 
-## Demo
+## `Demo`
 <center>
 <p align="center">
 
@@ -25,12 +25,12 @@ For sharing files you need to connect your laptop with Your mobile hotspot .
 </p>
 </center>
 
-## Usage
+## `Usage`
 ```
 Using lapshare as simple as using other softwares,just you need to install the lapshare on
 your's windows machine,then you are good to go.
 ```
-## limitations
+## `limitations`
 
 * Currently not supporting linux and Mac os
 
