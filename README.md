@@ -33,3 +33,5 @@ your's windows machine,then you are good to go.
 ## limitations
 
 * Currently not supporting linux and Mac os
+
+* you can share files from mobile to laptop ,but reverse is currently not possible
